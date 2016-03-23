@@ -1,6 +1,6 @@
 ##OpenStreetMap for ArcGIS
 
-View the Docs @ docs.cmv.io
+View the Docs @ [link](link).
 
 ###Contributing to the Documentation
 
