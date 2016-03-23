@@ -1,0 +1,18 @@
+site_name: OpenStreetMap for ArcGIS
+repo_url: https://github.com/GASCUK/OpenStreetMap-ArcGIS
+pages:
+- Home: 'index.md'
+- Workflow:
+    - 'Simplified workflow': 'workflows/simplified.md'
+    - 'Extended workflow': 'workflows/extended.md'
+    - 'Network': 'workflows/network.md'
+    - 'Troubleshooting': 'workflows/troubleshooting.md'
+- Download:
+    - 'Toolbox': 'download/toolbox.md'
+    - 'Styles': 'download/styles.md'
+    - 'Layers': 'download/layers.md'
+    - 'Data': 'download/data.md'
+- About:
+    - 'Licence': 'about/licence.md'
+    - 'Release Notes': 'about/releasenotes.md'
+theme: cerulean
