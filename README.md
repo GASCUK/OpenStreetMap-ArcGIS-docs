@@ -4,7 +4,7 @@ View the Docs @ [gascuk.github.io/OpenStreetMap-ArcGIS/](http://gascuk.github.io
 
 ###Contributing to the Documentation
 
-**Submit a Pull Request** - If you would like to contribute to the CMV documents, pull requests are welcome.
+**Submit a Pull Request** - If you would like to contribute to the OpenStreetMap-ArcGIS documents, pull requests are welcome.
 
 1. Fork this repository.
 2. Clone it to your local machine git clone /path/to/your/repository.
