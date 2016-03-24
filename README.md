@@ -1,4 +1,4 @@
-##OpenStreetMap for ArcGIS
+##Documentation for [OpenStreetMap-ArcGIS](https://github.com/GASCUK/OpenStreetMap-ArcGIS)
 
 View the Docs @ [gascuk.github.io/OpenStreetMap-ArcGIS/](http://gascuk.github.io/OpenStreetMap-ArcGIS).
 
