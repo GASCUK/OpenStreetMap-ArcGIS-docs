@@ -1,6 +1,6 @@
 ##OpenStreetMap for ArcGIS
 
-View the Docs @ [link](link).
+View the Docs @ [gascuk.github.io/OpenStreetMap-ArcGIS/](http://gascuk.github.io/OpenStreetMap-ArcGIS/).
 
 ###Contributing to the Documentation
 
