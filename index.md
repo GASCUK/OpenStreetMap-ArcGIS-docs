@@ -1,6 +1,6 @@
 # OpenStreetMap for ArcGIS
 
-![OpenStreetMap for ArcGIS](https://raw.githubusercontent.com/GASCUK/OpenStreetMap-ArcGIS/master/Images/osm_banner_small.png)
+![OpenStreetMap for ArcGIS](https://raw.githubusercontent.com/GASCUK/OpenStreetMap-ArcGIS/master/img/osm_banner_small.png)
 
 This repository provides a means to style OpenStreetMap data imported into ArcGIS using the 
 [OpenStreetMap Editor for ArcGIS](http://www.esri.com/software/arcgis/extensions/openstreetmap).
